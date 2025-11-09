@@ -27,7 +27,7 @@ export function About(props) {
                 transition={{duration:0.5}}
                 className="w-full lg:w-1/2 ">
                 <div className=" flex justify-center lg:justify-center">
-                    <p className='my-4 max-w-xl py-6 mr-4'>I am a 2nd-year B.Tech student at Sri indu college of engineering and technology, pursuing Information Technology. Alongside my core academic studies, I have a keen interest in web development and technology. I enjoy exploring the world of programming, learning new tools, and building projects that solve real-world problems.
+                    <p className='my-4 max-w-xl py-6 mr-4'>I am a B.Tech student at Sri indu college of engineering and technology, pursuing Information Technology. Alongside my core academic studies, I have a keen interest in web development and technology. I enjoy exploring the world of programming, learning new tools, and building projects that solve real-world problems.
 
 My journey in tech started with curiosity about how systems and applications work, and it has grown into a passion for creating innovative solutions. I thrive on learning, adapting to new challenges, and collaborating with others to bring creative ideas to life. Outside of academics, I love exploring new technologies, staying updated on trends, and finding inspiration for personal and professional growth.
                     </p>

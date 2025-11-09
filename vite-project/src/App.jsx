@@ -6,6 +6,7 @@ import Technologies from './Components/Technologies'
 import Projects from './Components/Projects'
 import Contact from './Components/Contact'
 import Education from './Components/Education'
+import Experiance from './Components/Experiance'
 
 
 export function App(props) {
@@ -22,6 +23,7 @@ export function App(props) {
     <Hero/>
     <About/>
     <Technologies/>
+    <Experiance/>
     <Projects/>
     <Education/>
     <Contact/>

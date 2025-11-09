@@ -32,12 +32,12 @@ export function Hero(props) {
             variants={container(0.5)}
             initial="hidden"
             animate="visible"
-            className='bg-gradient-to-r from-pink-300 via-slate-500 to-purple-800 bg-clip-text  tracking-tight text-transparent font-poppins '>Mern Stack Developer</motion.span>
+            className='bg-gradient-to-r from-pink-300 via-slate-500 to-purple-800 bg-clip-text  tracking-tight text-transparent font-poppins '>Full Stack Developer</motion.span>
                 <motion.p
                 variants={container(1)}
                 initial="hidden"
                 animate="visible"
-                className='my-2 max-w-xl py-6 font-light tracking-tighter '>Hi, I’m a MERN stack developer who loves building full-stack web applications. I enjoy creating intuitive and responsive user interfaces with React, designing robust back-end systems using Node.js and Express, and working with MongoDB to handle data effectively. Whether it’s solving problems, improving performance, or collaborating with others to bring ideas to life, I’m passionate about creating web solutions that make a real impact. I’m always eager to learn new technologies and stay up-to-date with the latest industry trends. When I’m not coding, I enjoy exploring creative ideas and finding inspiration for future projects..</motion.p>
+                className='my-2 max-w-xl py-6 font-light tracking-tighter '>Hi, I’m a Full stack developer who loves building full-stack web applications. I enjoy creating intuitive and responsive user interfaces with React, designing robust back-end systems using Node.js and Express, and working with MongoDB to handle data effectively. Whether it’s solving problems, improving performance, or collaborating with others to bring ideas to life, I’m passionate about creating web solutions that make a real impact. I’m always eager to learn new technologies and stay up-to-date with the latest industry trends. When I’m not coding, I enjoy exploring creative ideas and finding inspiration for future projects..</motion.p>
                 </div>
                 </div>    
             {/* <div className='w-full lg:w-1/6 lg:p-6 '>

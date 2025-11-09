@@ -8,6 +8,8 @@ import { GrDatabase } from "react-icons/gr";
 // import {DiRedis} from "react-icons/di"
 import {FaNodeJs} from "react-icons/fa"
 import { SiTailwindcss } from "react-icons/si";
+import { FaJava } from "react-icons/fa";
+import { FaPython } from "react-icons/fa";
 // import {BiLogoPostgresql} from "react-icons/bi"
 import {motion} from "framer-motion"
 
@@ -111,6 +113,20 @@ export function Technologies(props) {
             animate='animate'
             className="rounded-2xl border-4 border-neutral-800 p-4">
             <SiMysql className='text-6xl text-white-400 size-8' />   
+            </motion.div>
+            <motion.div 
+            variants={iconVariants(3.5)}
+            initial='initial'
+            animate='animate'
+            className="rounded-2xl border-4 border-neutral-800 p-4">
+            < FaJava className='text-6xl text-white-400 size-8' />   
+            </motion.div>
+            <motion.div 
+            variants={iconVariants(3.5)}
+            initial='initial'
+            animate='animate'
+            className="rounded-2xl border-4 border-neutral-800 p-4">
+            < FaPython className='text-6xl text-white-400 size-8' />   
             </motion.div>
             
             

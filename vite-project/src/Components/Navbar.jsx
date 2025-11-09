@@ -1,5 +1,5 @@
 import React from 'react'
-import logo from '../Components/photos/logo.png'
+import logo from '../Components/photos/logo2.png'
 import {FaLinkedin} from "react-icons/fa"
 import {FaGithub} from "react-icons/fa"
 import {FaInstagram} from "react-icons/fa"
@@ -23,7 +23,7 @@ export function Navbar(props) {
             <a href="https://www.linkedin.com/in/charan-teja-goud-chinthapally-181580322">
             <FaLinkedin/>
             </a>
-            <a href="https://www.linkedin.com/in/charan-teja-goud-chinthapally-181580322">
+            <a href="https://github.com/CharanTejaGoud-cloud">
             <FaGithub/>
             </a>
             <a href="https://www.instagram.com/charan_goud_03/?hl=en">
