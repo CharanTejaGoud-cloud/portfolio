@@ -21,7 +21,6 @@ const Projects = () => {
       </motion.h2>
 
       <div>
-        {/* Trip Planner */}
         <div className="mb-8 flex flex-wrap lg:justify-center">
           <motion.div
             whileInView={{ opacity: 1, x: 0 }}
@@ -57,7 +56,6 @@ const Projects = () => {
               CSS
             </span>
 
-            {/* Buttons */}
             <div className="mt-4 flex gap-4">
               <a
                 href="https://your-trip-planner-demo-link.vercel.app"
@@ -79,7 +77,6 @@ const Projects = () => {
           </motion.div>
         </div>
 
-        {/* Savory Restaurant */}
         <div className="mb-8 flex flex-wrap lg:justify-center">
           <motion.div
             whileInView={{ opacity: 1, x: 0 }}
@@ -118,7 +115,6 @@ const Projects = () => {
               TAILWIND CSS
             </span>
 
-            {/* Buttons */}
             <div className="mt-4 flex gap-4">
               <a
                 href="https://savory-p461.vercel.app/"
@@ -140,7 +136,6 @@ const Projects = () => {
           </motion.div>
         </div>
 
-        {/* RentX */}
         <div className="mb-8 flex flex-wrap lg:justify-center">
           <motion.div
             whileInView={{ opacity: 1, x: 0 }}
@@ -179,7 +174,6 @@ const Projects = () => {
               TAILWIND CSS
             </span>
 
-            {/* Buttons */}
             <div className="mt-4 flex gap-4">
               <a
                 href="https://rentalcarswebsite.vercel.app/"
@@ -201,7 +195,6 @@ const Projects = () => {
           </motion.div>
         </div>
 
-        {/* Project 4 placeholder */}
         <div className="mb-8 flex flex-wrap lg:justify-center">
           <motion.div
             whileInView={{ opacity: 1, x: 0 }}
@@ -240,7 +233,6 @@ const Projects = () => {
               MONGO DB
             </span>
 
-            {/* Buttons */}
             <div className="mt-4 flex gap-4">
               <a
                 href="#"
